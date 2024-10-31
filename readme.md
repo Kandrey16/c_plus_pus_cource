@@ -12,3 +12,6 @@
 
 Предел
 ![alt text](image-3.png)
+
+Фигуры
+![alt text](image-5.png)
